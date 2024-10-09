@@ -6,3 +6,64 @@
 2024-10-09 08:00:09 INFO  api.test.UserTests - ********* User updated***************
 2024-10-09 08:00:10 INFO  api.test.UserTests - ************Deleting user***************
 2024-10-09 08:00:10 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 08:28:08 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 08:28:10 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 08:28:10 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 08:28:10 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 08:28:10 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 08:30:39 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 08:30:41 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 08:30:41 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 08:30:41 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 08:30:41 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 08:30:41 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 08:30:41 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 08:30:41 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 09:55:12 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 09:55:12 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 09:55:12 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 09:55:12 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 09:55:12 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 09:55:12 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 09:55:13 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 09:55:13 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 09:56:06 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 09:56:08 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 09:56:08 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 09:56:08 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 09:56:08 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 09:56:08 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 09:56:08 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 09:56:08 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 10:05:45 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 10:05:48 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 10:05:48 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 10:05:48 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 10:05:48 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 10:05:48 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 10:05:48 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 10:05:49 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 10:07:52 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 10:07:52 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 10:07:52 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 10:07:52 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 10:07:52 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 10:07:52 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 10:07:52 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 10:07:53 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 10:16:59 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 10:17:02 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 10:17:02 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 10:17:03 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 10:17:03 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 10:17:03 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 10:17:03 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 10:17:03 INFO  api.test.UserTests - ************user deleted***************
+2024-10-09 10:30:35 INFO  api.test.UserTests - ********Creating user *****
+2024-10-09 10:30:38 INFO  api.test.UserTests - *******user is created**********
+2024-10-09 10:30:38 INFO  api.test.UserTests - ************Reading User info***************
+2024-10-09 10:30:39 INFO  api.test.UserTests - ************Reading User is displayed***************
+2024-10-09 10:30:39 INFO  api.test.UserTests - ************Updating User info***************
+2024-10-09 10:30:39 INFO  api.test.UserTests - ********* User updated***************
+2024-10-09 10:30:39 INFO  api.test.UserTests - ************Deleting user***************
+2024-10-09 10:30:39 INFO  api.test.UserTests - ************user deleted***************
